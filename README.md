@@ -1,0 +1,1 @@
+# smartinit-zavrsni-deployed
